@@ -1,2 +1,2 @@
-# CG-SR1
-SR1: Carga de Modelos - Computer Graphics
+# CG-LAB2
+Computer Graphics Laboratory #2
