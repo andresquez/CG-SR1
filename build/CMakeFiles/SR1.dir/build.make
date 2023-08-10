@@ -73,15 +73,15 @@ CMakeFiles/SR1.dir/src/main.cpp.o: CMakeFiles/SR1.dir/flags.make
 CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/main.cpp
 CMakeFiles/SR1.dir/src/main.cpp.o: CMakeFiles/SR1.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andres/Desktop/Gráficas/CG-SR1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SR1.dir/src/main.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SR1.dir/src/main.cpp.o -MF CMakeFiles/SR1.dir/src/main.cpp.o.d -o CMakeFiles/SR1.dir/src/main.cpp.o -c /Users/andres/Desktop/Gráficas/CG-SR1/src/main.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SR1.dir/src/main.cpp.o -MF CMakeFiles/SR1.dir/src/main.cpp.o.d -o CMakeFiles/SR1.dir/src/main.cpp.o -c /Users/andres/Desktop/Gráficas/CG-SR1/src/main.cpp
 
 CMakeFiles/SR1.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SR1.dir/src/main.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andres/Desktop/Gráficas/CG-SR1/src/main.cpp > CMakeFiles/SR1.dir/src/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andres/Desktop/Gráficas/CG-SR1/src/main.cpp > CMakeFiles/SR1.dir/src/main.cpp.i
 
 CMakeFiles/SR1.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SR1.dir/src/main.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andres/Desktop/Gráficas/CG-SR1/src/main.cpp -o CMakeFiles/SR1.dir/src/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andres/Desktop/Gráficas/CG-SR1/src/main.cpp -o CMakeFiles/SR1.dir/src/main.cpp.s
 
 # Object files for target SR1
 SR1_OBJECTS = \

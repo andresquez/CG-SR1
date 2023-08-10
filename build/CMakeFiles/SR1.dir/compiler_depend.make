@@ -733,71 +733,14 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_main.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_stdinc.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_config.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_platform.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/AvailabilityMacros.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/TargetConditionals.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/begin_code.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/close_code.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/inttypes.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/inttypes.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_inttypes.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/float.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/float.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/float.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_assert.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_atomic.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_audio.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_error.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_endian.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_mutex.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_thread.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_rwops.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_clipboard.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_cpuinfo.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/arm_neon.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_events.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_video.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_pixels.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_rect.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_surface.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_blendmode.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_keyboard.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_keycode.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_scancode.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_mouse.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_joystick.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_guid.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_gamecontroller.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_sensor.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_quit.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_gesture.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_touch.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_filesystem.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_haptic.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_hidapi.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_hints.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_loadso.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_log.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_messagebox.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_metal.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_power.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_render.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_shape.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_system.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_timer.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_version.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_locale.h \
-  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_misc.h \
   /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/glm.hpp \
   /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/_fixes.hpp \
   /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/setup.hpp \
   /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/simd/platform.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/cfloat \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/float.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/float.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/float.h \
   /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/fwd.hpp \
   /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/qualifier.hpp \
   /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/vec2.hpp \
@@ -942,8 +885,189 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
   /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/matrix.hpp \
   /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/vector_relational.hpp \
   /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/integer.hpp \
-  /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/func_integer.inl
+  /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/func_integer.inl \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_main.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_stdinc.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_config.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_platform.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/AvailabilityMacros.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/TargetConditionals.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/begin_code.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/close_code.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/inttypes.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/inttypes.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_inttypes.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_assert.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_atomic.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_audio.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_error.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_endian.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_mutex.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_thread.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_rwops.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_clipboard.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_cpuinfo.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/arm_neon.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_events.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_video.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_pixels.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_rect.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_surface.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_blendmode.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_keyboard.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_keycode.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_scancode.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_mouse.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_joystick.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_guid.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_gamecontroller.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_sensor.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_quit.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_gesture.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_touch.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_filesystem.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_haptic.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_hidapi.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_hints.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_loadso.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_log.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_messagebox.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_metal.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_power.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_render.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_shape.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_system.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_timer.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_version.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_locale.h \
+  /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_misc.h \
+  /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_transform.hpp \
+  /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/gtc/constants.hpp \
+  /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/scalar_constants.hpp \
+  /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/scalar_constants.inl \
+  /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/gtc/constants.inl \
+  /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/geometric.hpp \
+  /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/trigonometric.hpp \
+  /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/matrix.hpp \
+  /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_transform.inl \
+  /Users/andres/Desktop/Gráficas/CG-SR1/src/gl.h \
+  /Users/andres/Desktop/Gráficas/CG-SR1/src/loadObj.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/fstream \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/filesystem \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/copy_options.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/directory_entry.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/file_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/file_type.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/perms.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/filesystem_error.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/path.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/iomanip \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/operations.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/perm_options.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/space_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/directory_iterator.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/directory_options.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/path_iterator.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/u8path.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/sstream
 
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/path_iterator.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/directory_options.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/space_info.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/path.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/perms.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/file_type.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/copy_options.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/filesystem:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/scalar_constants.inl:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/gtc/constants.hpp:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_transform.hpp:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_locale.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_version.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_timer.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_system.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_render.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_metal.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_messagebox.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_log.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_hints.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_haptic.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_quit.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_sensor.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_guid.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_joystick.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_mouse.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_scancode.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_keycode.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_rect.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_pixels.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_video.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_events.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_cpuinfo.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_mutex.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_audio.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_atomic.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_assert.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/inttypes.h:
+
+/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/inttypes.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/begin_code.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/AvailabilityMacros.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_platform.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_config.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_filesystem.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_stdinc.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL.h:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/integer.hpp:
 
@@ -952,6 +1076,10 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/func_packing.inl:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/packing.hpp:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_misc.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_float2x2_precision.hpp:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_double2x2_precision.hpp:
 
@@ -966,6 +1094,10 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/vector_relational.hpp:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/type_vec1.hpp:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_endian.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/exponential.hpp:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/func_geometric.inl:
 
@@ -1005,6 +1137,8 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/type_mat3x4.hpp:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/directory_iterator.h:
+
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/mat3x4.hpp:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_float3x3_precision.hpp:
@@ -1016,6 +1150,8 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/type_mat3x3.inl:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/type_mat3x3.hpp:
+
+/Users/andres/Desktop/Gráficas/CG-SR1/src/gl.h:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_float3x2_precision.hpp:
 
@@ -1035,11 +1171,17 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_double2x4.hpp:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/mat2x4.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/shuffle.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_float2x3_precision.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/stddef.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/count_if.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/type_mat2x3.hpp:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_double2x3.hpp:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/mat2x3.hpp:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/matrix.hpp:
 
@@ -1051,27 +1193,39 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_int4.hpp:
 
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_gamecontroller.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_double4_precision.hpp:
+
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_double4.hpp:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_float4_precision.hpp:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_float4.hpp:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_bool4_precision.hpp:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/type_vec4.inl:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_array.h:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/vec4.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_clamp.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/type_vec4.hpp:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_uint3_sized.hpp:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_double3_precision.hpp:
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_double2.hpp:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_double3.hpp:
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_uint3.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__memory/assume_aligned.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_int3.hpp:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/func_integer.inl:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_float3_precision.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_callable.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/max_element.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_float3.hpp:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_bool3_precision.hpp:
 
@@ -1079,31 +1233,25 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/type_vec3.hpp:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_uint2_sized.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/remove.h:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_uint2.hpp:
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/vec3.hpp:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/scalar_int_sized.hpp:
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_gesture.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/scalar_uint_sized.hpp:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_int2_sized.hpp:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_int2.hpp:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_double2_precision.hpp:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_uint3.hpp:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_double2.hpp:
-
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_float2_precision.hpp:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_float2.hpp:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/type_vec2.inl:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/type_vec2.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/AvailabilityVersions.h:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/vec2.hpp:
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/fwd.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/float.h:
 
 /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_rwops.h:
 
@@ -1116,42 +1264,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_destructible.h:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/glm.hpp:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_float2x2_precision.hpp:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_misc.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_locale.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_version.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__chrono/year_month.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_shape.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_metal.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_hints.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_haptic.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_quit.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_guid.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_video.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_cpuinfo.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_assert.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/float.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/back_insert_iterator.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/close_code.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_config.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/default_sentinel.h:
 
@@ -1169,8 +1281,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_fd_set.h:
 
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_joystick.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_make_heap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_fd_def.h:
@@ -1184,6 +1294,10 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_ino_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_in_addr_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/_types/_uint8_t.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_double2x3_precision.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_blksize_t.h:
 
@@ -1245,8 +1359,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/replace_copy.h:
 
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_pixels.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_upper_bound.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/disjunction.h:
@@ -1259,13 +1371,19 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_sort_heap.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_fd_clr.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_iterator_concept.h:
 
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_error.h:
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_float2x3.hpp:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_float4.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_sort.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_shuffle.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/iomanip:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/vec2.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/set_union.h:
 
@@ -1277,19 +1395,27 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_set_difference.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_nothrow_destructible.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/concepts.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/istream_iterator.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_bool2.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/search_n.h:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/scalar_uint_sized.hpp:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_gesture.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_replace_copy_if.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_search_n.h:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_float2x2.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/float.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/mat2x2.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_inttypes.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_float2x2.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/set_intersection.h:
 
@@ -1311,9 +1437,9 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h:
 
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_replace_if.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_uint2.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/remove_copy_if.h:
 
@@ -1324,6 +1450,8 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_remove_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_remove.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_float2.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_mach_port_t.h:
 
@@ -1383,7 +1511,11 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_generate_n.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/filesystem_error.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_generate.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_double3.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_timespec.h:
 
@@ -1397,7 +1529,9 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_find_first_of.h:
 
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_sensor.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_bool2_precision.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_find.h:
 
@@ -1423,12 +1557,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_copy_backward.h:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/type_vec4.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_array.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_clamp.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_binary_search.h:
@@ -1438,10 +1566,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_all_of.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/partition_point.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__ranges/concepts.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_keyboard.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/ctype.h:
 
@@ -1457,17 +1581,13 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/pop_heap.h:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_double4x4.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/pthread/qos.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_hidapi.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/sort_heap.h:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/_fixes.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/partial_sort.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/fstream:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/none_of.h:
 
@@ -1483,6 +1603,8 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/sift_down.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/make_heap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/alloca.h:
@@ -1494,6 +1616,8 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/libkern/arm/OSByteOrder.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/is_sorted_until.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/directory_entry.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/chrono:
 
@@ -1509,19 +1633,17 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/swap_ranges.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/move_backward.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/runetype.h:
 
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_mouse.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__debug_utils/randomize_range.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_uint4.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/move_backward.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/for_each.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_includes.h:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/type_mat2x3.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/stddef.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/count_if.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_minmax_element.h:
 
@@ -1554,10 +1676,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_partial_sort.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wctype.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_messagebox.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/begin_code.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/wctype.h:
 
@@ -1601,12 +1719,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/istream:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_float3.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_callable.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/max_element.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/is_sorted.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/cwchar:
@@ -1618,6 +1730,8 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/_ctype.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/comp.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/type_vec4.inl:
 
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/mat4x3.hpp:
 
@@ -1667,8 +1781,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/ostreambuf_iterator.h:
 
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_events.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/mutex:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/locale.h:
@@ -1680,14 +1792,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/istreambuf_iterator.h:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_bool2.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_nothrow_destructible.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/concepts.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/istream_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/merge.h:
 
@@ -1717,17 +1821,11 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/counted_iterator.h:
 
-/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__variant/monostate.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/copy_cv.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/transform.h:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/vec3.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/remove.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/stdlib.h:
 
@@ -1735,15 +1833,17 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/iterator:
 
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_render.h:
-
 /opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/qualifier.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__memory/temporary_buffer.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/inttypes.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__chrono/year_month_day.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_shape.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__chrono/year_month.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_float4_precision.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__chrono/month_weekday.h:
 
@@ -1759,11 +1859,11 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/mergeable.h:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_uint4.hpp:
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_hidapi.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/runetype.h:
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_double4x4.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__debug_utils/randomize_range.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/pthread/qos.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_pthread/_pthread_t.h:
 
@@ -1772,10 +1872,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/bitset:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/pthread.h:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_float2x3.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_iterator_concept.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/errno.h:
 
@@ -1797,13 +1893,11 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__chrono/high_resolution_clock.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__utility/to_underlying.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_clipboard.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_transform.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_pthread/_pthread_key_t.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_int2.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/decay.h:
 
@@ -1865,6 +1959,10 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/arm/_limits.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__utility/unreachable.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_int3_sized.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__memory/ranges_construct_at.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/find_if_not.h:
@@ -1876,6 +1974,10 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__compare/weak_order.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__compare/partial_order.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_clipboard.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__utility/to_underlying.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__chrono/weekday.h:
 
@@ -1893,10 +1995,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__utility/as_const.h:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/exponential.hpp:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_endian.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_ino64_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/utility:
@@ -1910,6 +2008,8 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/find_first_of.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__memory/compressed_pair.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/scalar_constants.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/compare:
 
@@ -1947,8 +2047,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__memory/allocate_at_least.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/inttypes.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/iter_swap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/variant:
@@ -1975,12 +2073,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__thread/poll_with_backoff.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__assert:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_wint_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/TargetConditionals.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_trivially_assignable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__ranges/dangling.h:
@@ -1992,6 +2084,10 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__ranges/subrange.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_sample.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_keyboard.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__ranges/concepts.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/count.h:
 
@@ -2008,10 +2104,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__bit/bit_cast.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__compare/compare_three_way_result.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_filesystem.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_stdinc.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__tuple:
 
@@ -2035,9 +2127,9 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/arm/arch.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/string_view:
-
 /opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_loadso.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/string_view:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__functional/unwrap_ref.h:
 
@@ -2083,23 +2175,17 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/in_in_out_result.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/sstream:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__concepts/boolean_testable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/mach/arm/_structs.h:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_int3_sized.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__utility/unreachable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/mach/machine/_structs.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/machine/_mcontext.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/machine/signal.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/add_rvalue_reference.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_surface.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/unordered_map:
 
@@ -2126,10 +2212,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/remove_const.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__concepts/regular.h:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_bool2_precision.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/cstdlib:
 
@@ -2205,15 +2287,13 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_unbounded_array.h:
 
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_system.h:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/compute_vector_relational.hpp:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/arm/_types.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/incrementable_traits.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/iter_move.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/compute_vector_relational.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/generate_n.h:
 
@@ -2221,9 +2301,9 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__utility/piecewise_construct.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__concepts/swappable.h:
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/detail/type_vec2.hpp:
 
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_timer.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__concepts/swappable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/machine/endian.h:
 
@@ -2279,15 +2359,13 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_trivially_constructible.h:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/mat4x2.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/strings.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_blendmode.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/perm_options.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_referenceable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/tuple:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/vec4.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__concepts/movable.h:
 
@@ -2314,8 +2392,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/iter_swap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_constructible.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_mutex.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_set_intersection.h:
 
@@ -2345,9 +2421,9 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__ranges/empty.h:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_bool4.hpp:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_copy_constructible.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_bool4.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/remove_cvref.h:
 
@@ -2367,6 +2443,8 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/upper_bound.h:
 
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/mat2x4.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_posix_availability.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_u_int64_t.h:
@@ -2379,7 +2457,13 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/signal.h:
 
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_surface.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/add_rvalue_reference.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/remove_extent.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_transform.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_mbstate_t.h:
 
@@ -2401,6 +2485,8 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_nothrow_assignable.h:
 
+/Users/andres/Desktop/Gráficas/CG-SR1/src/loadObj.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__functional/bind_front.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__functional/perfect_forward.h:
@@ -2411,6 +2497,8 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/exception:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/file_status.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/remove_pointer.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__bsd_locale_defaults.h:
@@ -2419,11 +2507,15 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_time_t.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/u8path.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/cstdint:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_off_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_void.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/gtc/constants.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_prev_permutation.h:
 
@@ -2432,6 +2524,10 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__concepts/different_from.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__functional/invoke.h:
+
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_error.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_fd_clr.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_pthread/_pthread_cond_t.h:
 
@@ -2483,8 +2579,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_intptr_t.h:
 
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_log.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__chrono/literals.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_nothrow_constructible.h:
@@ -2503,6 +2597,8 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/make_signed.h:
 
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_uint2_sized.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/arm/types.h:
@@ -2511,19 +2607,15 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__concepts/common_with.h:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/fwd.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/AvailabilityVersions.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/in_fun_result.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/climits:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/operations.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_reverse.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/type_list.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_keycode.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__chrono/duration.h:
 
@@ -2555,8 +2647,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_u_int8_t.h:
 
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_atomic.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/ratio:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_dev_t.h:
@@ -2573,21 +2663,15 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/_locale.h:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_float2x3_precision.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/shuffle.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__utility/integer_sequence.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/reverse_iterator.h:
 
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_audio.h:
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/close_code.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__iterator/back_insert_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_fundamental.h:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_double4_precision.hpp:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_gamecontroller.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__string/extern_template_lists.h:
 
@@ -2605,11 +2689,15 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__filesystem/file_time_type.h:
 
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_platform.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_compound.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_floating_point.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/TargetConditionals.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__assert:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_wint_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_integral.h:
 
@@ -2653,19 +2741,15 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/cctype:
 
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_double3_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_push_heap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_trivially_move_assignable.h:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/matrix_double2x3_precision.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/_types/_uint8_t.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/is_permutation.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__utility/declval.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_scancode.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/version:
 
@@ -2697,13 +2781,7 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/stdio.h:
 
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_int3.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__memory/assume_aligned.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_any_of.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/AvailabilityMacros.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/unwrap_iter.h:
 
@@ -2718,8 +2796,6 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__type_traits/is_base_of.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/__wctype.h:
-
-/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_rect.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/ranges_pop_heap.h:
 
@@ -2736,6 +2812,10 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/machine/limits.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_int8_t.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/vector_double2_precision.hpp:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/mat2x3.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/_types/_uintmax_t.h:
 
@@ -2761,6 +2841,8 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__compare/three_way_comparable.h:
 
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/ext/scalar_int_sized.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__algorithm/equal_range.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_int64_t.h:
@@ -2773,11 +2855,13 @@ CMakeFiles/SR1.dir/src/main.cpp.o: /Users/andres/Desktop/Gráficas/CG-SR1/src/m
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/cdefs.h:
 
+/opt/homebrew/Cellar/sdl2/2.28.1/include/SDL2/SDL_blendmode.h:
+
+/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/mat4x2.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/strings.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/stdio.h:
-
-/opt/homebrew/Cellar/glm/0.9.9.8/include/glm/mat2x2.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/float.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__memory/uses_allocator.h:
 
