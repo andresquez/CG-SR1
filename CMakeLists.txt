@@ -7,6 +7,8 @@ find_package(SDL2 REQUIRED)
 
 # Incluye manualmente la ubicación del directorio raíz de GLM
 include_directories(/opt/homebrew/Cellar/glm/0.9.9.8/include)
+include_directories(${SDL2_INCLUDE_DIRS})
+
 
 add_executable(SR1 src/main.cpp)
 
