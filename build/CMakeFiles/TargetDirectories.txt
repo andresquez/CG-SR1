@@ -1,3 +1,0 @@
-/Users/andres/Desktop/Gráficas/CG-SR1/build/CMakeFiles/SR1.dir
-/Users/andres/Desktop/Gráficas/CG-SR1/build/CMakeFiles/edit_cache.dir
-/Users/andres/Desktop/Gráficas/CG-SR1/build/CMakeFiles/rebuild_cache.dir
